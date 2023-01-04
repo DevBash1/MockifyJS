@@ -23,6 +23,10 @@ You can change this by passing the port too.
 ```
 mockify server.mkr 5000
 ```
+
+Modifying a mocker file after runing the mocker server will make the changes take place instantly,   
+Which means you dont have to restart the mocker server everytime you modify the mocker file.   
+
 # Syntax
 
 The Mocker Syntax is very easy to understand and learn.   
